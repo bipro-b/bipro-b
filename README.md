@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bipro-b" alt="bipro-b" /></a> </p>
 
-- 🔭 I’m currently working on **node.js and react.js**
+- 🔭 I’m currently working on **Restful API creating following Clean Architecture and TDD**
 
-- 🌱 I’m currently learning **React, Express.js**
+- 🌱 I’m currently learning **Clean code Architecture, TDD, ASP.NET**
 
 - 👯 I’m looking to collaborate on **Backend Developing.**
 
